@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-kumaar&show_icons=true&locale=en" alt="ankit-kumaar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kumaar&" alt="ankit-kumaar" /></p>
+[![ankit-kumaar's GitHub | Stats](https://stats.quira.sh/ankit-kumaar/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ankit-kumaar)
