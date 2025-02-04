@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-kumaar&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-kumaar" /> </p>
 
-- 🌱 I’m currently learning **NextJs**
-
 - 💬 Ask me about **Node, mongo, express & react**
 
 - 📫 How to reach me **ank.it.careers189@gmail.com**
