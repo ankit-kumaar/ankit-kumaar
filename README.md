@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">Passionate MERN stack developer crafting scalable web applications with a seamless user experience</h3>
+<h3 align="center">Building AI-native systems at scale, from intelligent agents and voice assistants to vision-driven platforms.
+Focused on designing production-ready AI solutions that automate workflows, enhance decision-making, and deliver real business impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-kumaar&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-kumaar" /> </p>
-
-- 💬 Ask me about **Node, mongo, express & react**
 
 - 📫 How to reach me **ank.it.careers189@gmail.com**
 
