@@ -1,63 +1,137 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 
 <h3 align="center">
-GenAI Engineer building production AI systems powered by LLMs, Agentic Workflows, RAG, and Voice AI.<br/>
-Focused on designing scalable AI agents, evaluation systems, and real-world automation pipelines that deliver business impact.
+GenAI Engineer building production-grade AI systems powered by LLMs, Agentic Workflows, RAG, Voice AI, and Evaluation Frameworks.<br/>
+I focus on designing scalable AI agents, retrieval systems, and LLM evaluation pipelines that solve real business problems.
 </h3>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=ankit-kumaar&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-kumaar" /> 
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=ankit-kumaar&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-kumaar" />
 </p>
 
 ---
 
-- 🔭 Working on **LLM Evaluation Systems (SWE-Bench style), Agentic AI, and Voice Agents**
-- 🧠 Building **trajectory-based model evaluation and failure analysis pipelines**
-- ⚙️ Focused on **RAG, Multi-Agent Systems, and production AI workflows**
+## 🚀 About Me
+
+- 🔭 Currently working on **LLM Evaluation systems (SWE-Bench style), Agent Trajectory Analysis, and Agentic AI frameworks**
+- 🧠 Building **production-grade AI agents using Gemini, LangGraph, and LangChain**
+- ⚙️ Experienced in **RAG pipelines, Vector Databases, Voice AI systems, and AI Guardrails**
+- 💡 Focused on **making LLMs reliable, observable, and production-ready**
 - 📫 Reach me at **ank.it.careers189@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar-59773a186/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-</p>
+## 🧠 What I Work On
+
+### 🧩 Agentic AI Systems
+- Multi-agent workflows using LangGraph
+- Tool-calling based reasoning systems
+- Automated decision pipelines (sales, support, recruitment)
+
+### 🔍 LLM Evaluation & Reliability
+- SWE-Bench style evaluation pipelines
+- Trajectory-based agent analysis
+- Failure mode detection for reasoning & tool usage
+- Benchmarking frontier models (Gemini / Claude-style systems)
+
+### 📚 RAG & Retrieval Systems
+- Embedding-based semantic search
+- Vector database design & optimization
+- Context-aware retrieval pipelines
+- Latency optimization for production systems
+
+### 🎤 Voice AI Systems
+- Real-time voice agents for sales & automation
+- Twilio + WebSocket streaming pipelines
+- Conversational AI for customer engagement
 
 ---
 
-<h3 align="left">Core AI Stack:</h3>
+## 💼 Experience
 
-<p align="left">
-<img src="https://img.shields.io/badge/LLMs-Gemini-blue" />
-<img src="https://img.shields.io/badge/LangChain-Agentic%20AI-orange" />
-<img src="https://img.shields.io/badge/LangGraph-MultiAgent-purple" />
-<img src="https://img.shields.io/badge/RAG-Vector%20DB-green" />
-<img src="https://img.shields.io/badge/Voice%20AI-Agents-red" />
-<img src="https://img.shields.io/badge/SWE--Bench-Evaluation-black" />
-</p>
+### Software Engineer | Ethara AI  
+**Feb 2024 – Present**
 
----
+- Built evaluation harnesses and trajectory analysis frameworks to benchmark frontier LLMs using SWE-Bench style workloads, identifying reasoning, tool-calling, and task-completion failures.
+- Designed LLM evaluation pipelines to analyze agent execution paths and improve reliability of multi-step AI systems.
+- Developed a Gemini-powered personal loan recommendation assistant using persona-based prompting and customer profiling for contextual financial decisioning.
+- Implemented AI safety guardrails, prompt validation, and response filtering to reduce prompt injection, jailbreaks, and hallucinations.
+- Built production RAG systems using embeddings and vector databases, improving retrieval accuracy and reducing response latency.
+- Developed Vision AI + OCR pipelines reducing manual document processing effort by 60%.
+- Built AI voice agents for lead qualification, customer engagement, and sales automation increasing lead handling capacity by 3× and improving conversions by 25%.
+- Designed multi-agent workflows with tool-calling for scheduling, CRM updates, callbacks, and escalation handling.
+- Deployed scalable AI systems using FastAPI, Kafka, Redis, Docker, and Kubernetes.
 
-<h3 align="left">Tech Stack:</h3>
-
-<p align="left">
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/></a>
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/></a>
-<a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/></a>
-<a href="https://www.tensorflow.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/></a>
-</p>
+**Tech Stack:** Python, Gemini, LangGraph, LangChain, FastAPI, RAG, Vector DBs, Embeddings, OCR, Voice AI, Kafka, Redis, Docker, Kubernetes
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+### Software Engineer | Cisco Systems  
+**Dec 2022 – Dec 2023**
 
-<p>
+- Automated performance and scale-testing workflows reducing QA effort by 25%.
+- Built internal automation tools improving engineering productivity across large-scale systems.
+- Developed Python-based tooling for infrastructure and workflow automation.
+
+---
+
+## 🧩 Selected Projects
+
+### 💳 Personal Loan Recommendation Assistant
+Built a Gemini-powered recommendation system using persona-based prompting and customer profiling to generate personalized financial recommendations with AI safety guardrails.
+
+---
+
+### 🎤 AI Interview Platform
+Built a voice-based AI interviewer that conducts adaptive interviews, generates structured candidate evaluations, and produces JD-aligned scoring reports.
+
+---
+
+### 🏠 Real Estate Voice Agent Platform
+Multi-agent AI system for lead qualification, scheduling, CRM updates, callback handling, and human escalation using tool-calling workflows.
+
+---
+
+### 🖼️ Visual Product Assistant (RAG + Vision AI)
+Retrieval-augmented system for product search and visual room previews using embeddings, vector search, and image processing pipelines.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Top 50 among 600 teams in Google's Agentic AI Hackathon  
+- 🧠 Cisco DevNet Associate Certified  
+- ⚙️ Cisco Certified Network Associate (CCNA)  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Backend:** Python, FastAPI, REST APIs, WebSockets  
+**GenAI Stack:** Gemini, LangChain, LangGraph, RAG, Agentic AI  
+**Retrieval:** Vector Databases, Embeddings, Semantic Search  
+**Infra:** Docker, Kubernetes, Kafka, Redis  
+**AI Systems:** Voice AI, Multi-Agent Systems, Tool Calling, Guardrails  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ankit-kumaar&show_icons=true&theme=default" />
 </p>
 
-<p>
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kumaar" />
 </p>
+
+---
+
+## 📫 Contact
+
+📧 Email: ank.it.careers189@gmail.com  
+🌍 Location: Gurugram, India  
+
+---
+
+⭐ *I build production-grade AI systems that turn LLMs into reliable, observable, and scalable products.*
